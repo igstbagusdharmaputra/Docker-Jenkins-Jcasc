@@ -1,6 +1,14 @@
 # Docker-Jenkins-Jcasc
 
-how to run
-docker-compose up -d
-how to stop
-docker-compose down
+* ### Docker Lifecycle
+
+  - Run container 
+
+  ```sh
+  $ docker-compose up -d 
+  ```
+  
+  - Stop container
+
+  ```sh
+  $ docker-compose down 
